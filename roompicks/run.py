@@ -57,7 +57,7 @@ def run_roompicks(avail, pairs):
             n_cohort = [0, 0, 0]
             assert ucc_left == [0, 0, 0] and guaranteed_healthads >= 2
         cur = Cohort.senior
-        n_cur = (4*n + 9) // 10
+        n_cur = (2*n + 4) // 5
         n -= n_cur
         for p in norm_pairs[1:]:
             if p.result != None:
