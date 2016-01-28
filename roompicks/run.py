@@ -24,11 +24,11 @@ def try_pick(pair, avail, n_cohort, ucc_left):
     return False
 
 
-def run_roompicks(avail, pairs):
+def run_oncampus_doubles(avail, pairs):
     """Run roompicks, modifying p.result for each pair p, and returning the list.
 
     avail -- a dictionary mapping each alley to the list of non-frosh rooms
-    pairs - a list of `data.RoommatePair`s
+    pairs - a list of `data.LloydieGroup`s
     """
 
     avail = copy.copy(avail)

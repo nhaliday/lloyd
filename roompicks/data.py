@@ -50,23 +50,22 @@ class Lloydie:
 
 
 @total_ordering
-class RoommatePair:
+class LloydieGroup:
 
-    def __init__(self, l1, l2, prefs=[]):
-        if l1 > l2:
-            l1, l2 = l2, l1
-        self.l = (l1, l2)
-        self.pick = l1
+    def __init__(self, *lloydies, prefs=[]):
+        self.l = lloydies
+        self.l.sort()
+        self.pick = self.l[0]
         self.prefs = prefs # list of (alley, room) pairs in descending order of preference
         self.result = None
 
     @property
     def ucc(self):
-        return self.l[0].ucc or self.l[1].ucc
+        return any(v.ucc for v in self.l)
 
     @property
     def healthad(self):
-        return self.l[0].healthad + self.l[1].healthad
+        return sum(v.healthad for v in self.l)
 
     @property
     def cohort(self):
