@@ -102,19 +102,19 @@ e.  Health Ad, UCC, and Excomm Privileges and Restrictions
         first on-campus round of end-of-year
         roompicks: after the seniors have finished picking and the
         number of rooms allotted to juniors has been determined (taking into
-        account 2.e and 3.e.iii), the Secretary will iterate through the junior
+        account 2.e and 3.d.iii), the Secretary will iterate through the junior
         roster. Before each junior pick, the Secretary must consider
-        how many health ads are not guaranteed a spot on campus (either
+        how many health ads are not yet guaranteed a spot on campus (either
         having already picked one or being a UCC or a UCC's roommate),
         and consider how many rooms need to be set aside
-        to get to two health ads (1 if either only 1 more health ad is required,
-        or the next health ad pick is two health ads rooming together, and
+        to get to 2 health ads (1 if either only 1 more health ad is required,
+        or the next health ad pick consists of 2 health ads rooming together, and
         2 otherwise), and move onto the first health ad pick if there
         are only that many rooms left for juniors.
 
           Situations where this is not sufficient to ensure 2 health ads
-        are rooming on-campus (if there's only 1 junior health ad for example,
-        but some senior health ads) are resolved at the secretary's discretion.
+        are rooming on-campus (for example if there's only 1 junior health ad
+        but at least 1 senior health ad) are resolved at the secretary's discretion.
 
 f. Screwed-over seniors receive elevated picks below BOC reps.
 
@@ -153,7 +153,7 @@ d.  Starting at the top of the list, moving down, eliminating people and
         of seniors picking), no senior, except those
         from (ii), can pick again until the next time through the list.
     iv. During the second time through the list, after the number of
-        JR-picked rooms in this round, anticipating those from (ii), exceeds
+        JR-picked rooms in this round, anticipating those from (ii), reaches
         1/2 (rounded up) of the available rooms (calculated at the start
         of juniors picking), no junior, except those from (ii),
         can pick again until the next time through the list.

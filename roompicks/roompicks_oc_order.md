@@ -334,12 +334,6 @@ d.  If extra Freshmen exceeding the number of Frosh rooms are assigned
 
 <div class="bylawheading">
 
-8\. The Secretary
-
-</div>
-
-<div class="bylawcontent">
-
-reserves the right to interpret these rules at his/her discretion.
+8\. The Secretary reserves the right to interpret these rules at his/her discretion.
 
 </div>
