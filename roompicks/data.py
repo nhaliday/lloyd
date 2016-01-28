@@ -72,7 +72,7 @@ class LloydieGroup:
         return self.pick.cohort
 
     def __eq__(self, other):
-        return self.pair == other.pair
+        return self.pick == other.pick
 
     def __lt__(self, other):
         return self.pick < other.pick
