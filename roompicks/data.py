@@ -11,7 +11,7 @@ class Office(IntEnum):
     treasurer = 4
     ath = 5
     boc = 6
-    redress = 7
+    redress = 7 # for seniors screwed by roompicks in past two years
     none = 8
 
 
