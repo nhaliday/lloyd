@@ -14,12 +14,12 @@ def do_pick(pair, avail, n_cohort, ucc_left, pick):
 
 
 def try_pick(pair, avail, n_cohort, ucc_left):
-    for alley, room in p.prefs:
+    for alley, room in pair.prefs:
         if room not in avail[alley]:
             continue
-        if not p.ucc and len(avail[alley]) == 1:
+        if not pair.ucc and len(avail[alley]) == 1:
             continue
-        do_pick(p, avail, n_cohort, ucc_left, (alley, room))
+        do_pick(pair, avail, n_cohort, ucc_left, (alley, room))
         return True
     return False
 
