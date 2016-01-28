@@ -35,7 +35,7 @@ class Lloydie:
         self.healthad = healthad
 
     def __eq__(self, other):
-        return self.id = other.id
+        return self.id == other.id
 
     def __lt__(self, other):
         if self.office == Office.president:
@@ -57,7 +57,7 @@ class RoommatePair:
             l1, l2 = l2, l1
         self.l = (l1, l2)
         self.pick = l1
-        self.prefs = prefs
+        self.prefs = prefs # list of (alley, room) pairs in descending order of preference
         self.result = None
 
     @property

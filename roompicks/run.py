@@ -1,5 +1,5 @@
 from data import Office, Cohort
-
+import copy
 
 def do_pick(pair, avail, n_cohort, ucc_left, pick):
     if pair.cohort != Cohort.ssenior:
@@ -11,6 +11,13 @@ def do_pick(pair, avail, n_cohort, ucc_left, pick):
 
 
 def run_roompicks(avail, pairs):
+    """Run roompicks, modifying p.result for each pair p, and returning the list.
+
+    avail -- a dictionary mapping each alley to the list of non-frosh rooms
+    pairs - a list of `data.RoommatePair`s
+    """
+
+    avail = copy.copy(avail)
     n = sum(len(rooms) for rooms in avail.values())
     pairs.sort()
 
@@ -30,7 +37,7 @@ def run_roompicks(avail, pairs):
     while True:
         if pass_number > 0:
             n_cohort = [0, 0, 0]
-            assert ucc_left == [0, 0, 0]
+            assert ucc_left == [0, 0, 0] and guaranteed_healthads >= 2
         cur = Cohort.senior
         n_cur = (4*n + 9) // 10
         n -= n_cur
@@ -64,7 +71,7 @@ def run_roompicks(avail, pairs):
                 if not p.ucc and len(avail[alley]) == 1:
                     continue
                 do_pick(p, avail, n_cohort, ucc_left, (alley, room))
-                if not p.ucc
+                if not p.ucc:
                     guaranteed_healthads += p.healthad
                 break
         n = n_cur - n_cohort[cur]
