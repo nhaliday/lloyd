@@ -61,10 +61,6 @@ i.  Member (as used in Roompick Rules only) - a previous full member who
     sufficient confidence from the dean(s) of their return as a student
     for the following term (see Article I of the Constitution for how
     these people may reinstate membership).
-j.  Screwed-over - the state of a senior (SR) who has entered roompicks the
-    past two years and not received a room either time.
-h.  SR-picked, JR-picked, SO-picked room - a C-picked room
-    is a room picked by a member of class C.
 
 <div class="bylawheading">
 
@@ -79,8 +75,7 @@ b.  SR pick higher than JR who pick higher than SO who pick higher than
 c.  Officers pick at the top of their respective classes in the
     following order: Secretary, Superintendent, Social Director,
     Treasurer, Athletic Manager, BOC Rep.
-d.  Card Pick is used to resolve all ties, **except in the case of
-    end-of-year roompicks, see (3.g)**. The rankings of cards will be
+d.  Card Pick is used to resolve all ties, the sequence of cards will be
     announced by the Secretary prior to the drawing of cards.
 e.  Health Ad, UCC, and Excomm Privileges and Restrictions
     i.  UCCs whose terms begin at the start of the academic year must
@@ -97,26 +92,24 @@ e.  Health Ad, UCC, and Excomm Privileges and Restrictions
         require any of the above to move on-campus at the first
         opportunity or relinquish their office at that time.
     iii. In order to guarantee that at least two health ads (rising
-        juniors or higher) are offered residence on campus each year, the
-        following lockout protocol shall be in effect during the
-        first on-campus round of end-of-year
+        juniors or higher) are offered residence on campus each year the
+        following lockout protocol shall be in effect at end-of-year
         roompicks: after the seniors have finished picking and the
-        number of rooms allotted to juniors has been determined (taking into
-        account 2.e and 3.e.iii), the Secretary will iterate through the junior
-        roster. Before each junior pick, the Secretary must consider
-        how many health ads are not guaranteed a spot on campus (either
-        having already picked one or being a UCC or a UCC's roommate),
-        and consider how many rooms need to be set aside
-        to get to two health ads (1 if either only 1 more health ad is required,
-        or the next health ad pick is two health ads rooming together, and
-        2 otherwise), and move onto the first health ad pick if there
-        are only that many rooms left for juniors.
-
-          Situations where this is not sufficient to ensure 2 health ads
-        are rooming on-campus (if there's only 1 junior health ad for example,
-        but some senior health ads) are resolved at the secretary's discretion.
-
-f. Screwed-over seniors receive elevated picks below BOC reps.
+        number of junior and sophomore rooms (rooms to be picked by a
+        junior or sophomore) has been determined (taking into account
+        2.e and 3.e.iii), the Secretary will iterate through the
+        junior roster. Before each junior pick the Secretary must take
+        the following protocol into account: the junior health ad with
+        the highest cardpick must be offered to pick the next room if,
+        when filling the designated junior rooms,\
+        \
+        (\# of junior rooms left to be picked) - (\# of rooms guaranteed
+        to junior UCCs who haven't picked yet) + (\# of health ads
+        already known to be living on campus next year) + (\# of junior
+        UCCs or their roommates who haven't picked yet but are health
+        ads),\
+        \
+        is less than or equal to 2.
 
 <div class="bylawheading">
 
@@ -127,8 +120,7 @@ f. Screwed-over seniors receive elevated picks below BOC reps.
 a.  End-of-Year Roompicks will occur between three days after the
     postings of the general OC pick order and three days before the
     actual OC picks.
-b.  All members entering must notify the Secretary by three days
-    prior.
+b.  All members entering must notify the Secretary and draw a card.
 c.  A master list ranking all those who entered roompicks will be posted
     at least two days before roompicks start.
 d.  Starting at the top of the list, moving down, eliminating people and
@@ -147,22 +139,18 @@ d.  Starting at the top of the list, moving down, eliminating people and
     ii. Between the first and second times through the list, UCC's and
         others who are guaranteed a spot on campus must declare
         their roommates. See (2.e).
-    iii. During the second time through the list after the number of
-        SR-picked rooms in this round, anticipating those from (ii), reaches
-        2/5 (rounded up) of the available rooms (calculated at the start
-        of seniors picking), no senior, except those
-        from (ii), can pick again until the next time through the list.
-    iv. During the second time through the list, after the number of
-        JR-picked rooms in this round, anticipating those from (ii), exceeds
-        1/2 (rounded up) of the available rooms (calculated at the start
-        of juniors picking), no junior, except those from (ii),
-        can pick again until the next time through the list.
-    v. The incoming UCC committee may set limits on the number of new
+    iii. During the second time through the list, after the number of
+        Juniors on-campus, anticipating those from (ii), exceeds
+        two-thirds (rounded down) of the non-SR, non-SS,
+        non-reserved-for-FR, non-reserved-for-guaranteed-Excomm people
+        spots on campus, until the list is cycled through again, no
+        Junior, except from (ii), may use their pick to pick on campus.
+    iv. The incoming UCC committee may set limits on the number of new
         students and upperclassmen living in each alley prior to
         the roompick. If it fails to set such limits, there shall be no
         restrictions placed on the number of upperclassmen and new
         students required to live in each alley.
-    vi. At their turn to pick, anyone may declare a "Frosh" as a
+    v.  At their turn to pick, anyone may declare a "Frosh" as a
         roommate, subject to the following constraints:
         a.  When picking a "Frosh" as a roommate, you may be forced to
             enter Beginning-of-the-Year Roompicks.
@@ -176,26 +164,16 @@ d.  Starting at the top of the list, moving down, eliminating people and
             in cases when parity is odd. This person will pick after
             SuperSeniors in the roompick order.
 
-    vii. Before each Pick, a check will be made both to check alley
+    vi. Before each Pick, a check will be made both to check alley
         lockouts and to ensure that there are enough rooms available for
         those guaranteed a room in (2.e). Once there are just enough
         rooms remaining for those guaranteed a room in (2.e), then the
         pick will continue down the list, allowing only those mentioned
         in (2.e) to pick rooms this time through the list.
-    viii. Items (2.d.iii) and (2.d.iv) are present in order to ensure
-        an approximately 40:30:30 balance between classes, favoring upperclassmen.
-        The calculations are made with respect to rooms not heads, so
-        a junior rooming with a senior who picked earlier
-        does not count toward the limit in (2.d.iv). Excomm picks are
-        included in the calculation.
-    ix. Superseniors (SS) are not allowed to pick on any cycle until
-        all SOs, JRs, and SRs have picked.
 
 e.  The Secretary will record an ordered list of the
     End-of-Year Roompicks. This list will be saved by the Secretary
-    until the end of the ensuing Rotation. The Secretary will also
-    record who entered roompicks for the purposes of determining which
-    future seniors fulfill definition (2.f).
+    until the end of the ensuing Rotation.
 f.  Changes during the Summer
     i.  For changes that occur before the Beginning-of-Year Roompick,
         the picking order is the same as it was for the
@@ -213,12 +191,6 @@ f.  Changes during the Summer
         this time.
     v.  The roompick shall proceed as in D above with all the
         restrictions applying.
-
-g.  Ties in pick order will be broken using the Caltech off-campus
-    lottery picks, in reverse order, always deferring to the most
-    up-to-date version in case of corrections or additions. Cases where
-    a Lloydie cannot obtain a lottery pick will be resolved according to
-    the Secretary's discretion.
 
 <div class="bylawheading">
 
